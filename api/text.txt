@@ -4,6 +4,15 @@ dc: vnlamp
 objectClass: top
 objectClass: domain
 
+
+# domain
+dn: dc=vnlamp,dc=local
+dc: vnlamp
+objectClass: top
+objectClass: domain
+
+
+
 # users OU
 dn: ou=users,dc=vnlamp,dc=local
 ou: users
