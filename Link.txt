@@ -1,0 +1,65 @@
+﻿how to determine the maximum number of simultaneous connections required for this Web serve
+
+performance 
+Load average
+CPU, broken out by process including I/O wait time, user/system time, idle time
+Memory usage, broken out by process, and used, cached, free
+Disk activity, including requests and bytes read/written per second
+Network bytes read/written per second
+
+High.Performance.Web.Sites 
+MaxClient
+CCU
+Worker - Prefork --> ok
+http://mugurel.sumanariu.ro/linux/the-difference-among-virt-res-and-shr-in-top-output/
+
+http://www.thegeekstuff.com/2010/01/awk-introduction-tutorial-7-awk-print-examples/
+
+http://www.slideshare.net/kimlindholm/varnish-configuration-step-by-step
+
+http://www.lullabot.com/blog/article/configuring-varnish-high-availability-multiple-web-servers
+
+Mon­i­tor­ing and ana­lyz­ing per­for­mance is an impor­tant task for any sysad­min.
+
+ grep. awk
+ 
+ ddos
+High.Performance.Web.Sites 
+Cache Nginx
+goaccess
+htaccess
+mysqltuner.pl
+ps_mem.py
+
+
+#####################
+http://www.tecmint.com/install-mod_geoip-for-apache-in-rhelcentos-6-35-8/
+http://www.tecmint.com/how-to-install-and-setup-monit-linux-process-and-services-monitoring-program/
+https://word.office.live.com/wv/WordView.aspx?FBsrc=https%3A%2F%2Fwww.facebook.com%2Fdownload%2Ffile_preview.php%3Fid%3D521192544605897%26time%3D1386919359%26metadata&access_token=777332137%3AAVIoZ-IudXnmKXVYzSbvFKxZ8lFYKI7tR-osZT_FkV8ksA&title=XAY+DUNG+CHIEN+LUOC+MARKETING+CHO+THUONG+HIEU+123.VN.docx
+
+
+
+
+
+https://github.s3.amazonaws.com/media/progit.en.pdf
+https://www.digitalocean.com/community/articles/how-to-install-git-on-a-centos-6-4-vps
+http://tomoconnor.eu/blogish/getting-started-ansible/#.U367GfmSy4k
+https://www.digitalocean.com/community/articles/how-to-install-and-configure-ansible-on-an-ubuntu-12-04-vps
+
+
+http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/
+
+http://www.symantec.com/connect/articles/apache-2-ssltls-step-step-part-1
+http://beeznest.wordpress.com/2008/04/25/how-to-configure-https-on-apache-2/
+
+
+so 1
+
+https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/6/html-single/Performance_Tuning_Guide/index.html#main-specs
+
+http://gwan.com/en_apachebench_httperf.html
+
+http://www.comlore.com/httperf/httperf-quickstart-guide.pdf
+
+
+http://docs.ansible.com/intro_installation.html
