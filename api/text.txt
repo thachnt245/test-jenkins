@@ -1,0 +1,41 @@
+# domain
+dn: dc=vnlamp,dc=local
+dc: vnlamp
+objectClass: top
+objectClass: domain
+
+
+# domain
+dn: dc=vnlamp,dc=local
+dc: vnlamp
+objectClass: top
+objectClass: domain
+
+
+
+# users OU
+dn: ou=users,dc=vnlamp,dc=local
+ou: users
+objectClass: top
+objectClass: organizationalUnit
+
+# groups OU
+dn: ou=groups,dc=vnlamp,dc=local
+ou: groups
+objectClass: top
+objectClass: organizationalUnit
+
+# user jchen
+dn: uid=lee,ou=users,dc=vnlamp,dc=local
+uid: lee
+cn: lee
+sn: 1
+objectClass: top
+objectClass: posixAccount
+objectClass: inetOrgPerson
+loginShell: /bin/bash
+homeDirectory: /home/lee
+uidNumber: 506
+gidNumber: 506
+userPassword: {SSHA}JQK79YwBQWT+m/3DkIENineWZn99cnLj
+mail: lee@vnlamp.local
